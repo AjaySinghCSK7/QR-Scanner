@@ -1,0 +1,25 @@
+body{
+  background-color:#D5E1EF ;
+  
+}
+.card{
+  padding: 1rem;
+  position: absolute;
+  padding-bottom: 3rem;
+  margin: auto;
+  inset: 0;
+  width: 302px;
+  height: 470px;
+  border-radius: 16px;
+
+  background-color: white;
+  box-shadow: 0px 10px 8px 10px rgb(0, 0, 0, 0.3);
+}
+img{
+  width: 100%;
+  border-radius: 10px;
+  font-family: cursive;
+}
+h2{
+  color: rgb(11, 9, 61);
+}
